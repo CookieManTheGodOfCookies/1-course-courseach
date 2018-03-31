@@ -1,0 +1,7 @@
+Ivan Ivanov 1000 0 0
+Sergey Sergeev 1200 1 2
+Vasya Vasilkov 1313 0 1
+Nick Johnson 3200 1 2
+Gena Chuchuev 1325 1 0
+Jorik Pupkov 1234 0 1
+Pasha Akulin 0 0 2
